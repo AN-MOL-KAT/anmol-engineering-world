@@ -348,7 +348,7 @@ Computer Science Engineering student · Cambridge Institute of Technology, Banga
 
 B.Tech / B.E. Computer Science Engineering · 2023–2027 · CGPA 7.96
 
-**Focus:** Artificial Intelligence · Machine Learning · Computer Vision · Software Engineering
+**Focus:** Machine Learning · Computer Vision · Software Engineering · Full Stack Development
 
 **Connect:** [GitHub](https://github.com/AN-MOL-KAT) · [LinkedIn](https://www.linkedin.com/in/anmol-kathayat-41ab63418) · [anmolkathayat20@gmail.com](mailto:anmolkathayat20@gmail.com)
 
